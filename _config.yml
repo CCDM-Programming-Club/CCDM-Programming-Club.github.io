@@ -6,4 +6,8 @@ author: Darcy Jones
 
 # Build settings
 #markdown: kramdown
-theme: jekyll-theme-cayman
+theme: minima
+show_excerpts: true
+
+disqus:
+  shortname: ccdm-programming-club-github-io

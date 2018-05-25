@@ -1,4 +1,6 @@
-# CCDM programming club
+---
+layout: page
+---
 
 The CCDM programming club is a fortnightly meeting for improving coding skills 
 by sharing code and working collaboratively on problems/projects.
@@ -10,7 +12,7 @@ This robs everybody of the opportunity to see how others might solve a particula
 
 ## Schedule
 
-Meetings are every second Wednesday from 12-1 pm in B304.307 Curtin University, Australia, starting 16/04/2018.
+Meetings are every second Wednesday from 12-1 pm in B304.307 Curtin University, Australia, starting 16/05/2018.
 
 
 ## Project goals
