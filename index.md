@@ -9,6 +9,7 @@ There are an ever-increasing number of us writing code to attack our research qu
 We feel that for the most part, CCDM researchers write code in isolation and share only the final, polished results.
 This robs everybody of the opportunity to see how others might solve a particular problem, and to learn by watching how each other work.
 
+Check out our [blog](/blog/) for more details of what's happening, or find out more about us below.
 
 ## Schedule
 
