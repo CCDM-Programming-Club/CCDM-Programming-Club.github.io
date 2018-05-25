@@ -1,1 +1,9 @@
+# basic options
+title: CCDM Programming Club
+author: Darcy Jones
+#email: your-email@domain.com
+#description: A wonderful site
+
+# Build settings
+#markdown: kramdown
 theme: jekyll-theme-cayman
