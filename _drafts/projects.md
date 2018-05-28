@@ -1,0 +1,56 @@
+---
+layout: post
+title: "Potential project ideas"
+---
+
+
+This week we'll be discussing potential project ideas that we might like to tackle as a group.
+You are encouraged to bring along your ideas, but to get the discussion started James,
+Rob and I (Darcy) have come up with a few ideas for projects that we think might be appropriate.
+
+## Codon adaptation indices
+
+Deviations from normal codon usage may indicate some compartmentalisation of mutational load (e.g. RIP) or presence of foreign DNA (e.g. horizontal transfer).
+Last year James had a volunteer (Renu) develop a method for finding codon adaptation indices (CAI).
+This project would involve packaging that method into some software suitable for distribution, and would probably also involve a web interface.
+
+This is a fairly simple project so is probably a good choice for an initial project, but may be too small for the number of people that we have.
+
+
+## Updating RIPCAL
+
+[RIPCAL](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-9-478) is a tool written by 
+James for alignment bases analyses of [RIP](https://link.springer.com/chapter/10.1007/978-3-319-10503-1_4) in genomes.
+The tool is still very useful but was developed more than a decade ago, before the rise of short read sequencing.
+Because repeated sequences are particularly difficult to assemble using Illumina sequencing technologies, there is a need for an assembly agnostic method of RIP characterisation.
+Although long read sequencing is returning, resequencing efforts and pangenomics are likely to rely on the cheaper options for some time to come.
+
+So there are two options for updating RIPCAL.
+
+1) Update the software to target newer generation high quality genomes, using updated tools (e.g. ClustalW -> ClustalO), include unittests, and have a web interface.
+2) Develop a new method to target fragmented genomes, which will likely take either an alignment free (i.e. kmer counting/clustering followed by local assembly), or a read alignment (BAM/SAM) approach.
+
+Both tools will be useful and publishable.
+Both will require a diverse set of tasks, including some basic web development.
+The second option is obviously more complex, which might be more or less appealing to you.
+
+
+## Web based genomic visualisations
+
+In fungal genomics we often need customised plots to investigate genomic rearrangements (e.g. mesosynteny).
+Unfortunately rich customisable genomic plots are often difficult to produce, even with the powerful plotting libraries available.
+This project would build involve developing pipelines to plot complex (possibly interactive) visualisations using web technologies.
+Rob has previously presented some genome alignments using Javascript, D3, and other web standards.
+We would be building on that experience.
+
+Depending on the compenteny, interest level, and optimism of participants, there might be an opportunity to improve performance of interactive components using the new [Web assembly](https://webassembly.org/) standard.
+
+
+
+Each of these projects should have aspects suited to beginner and experienced programmers, and a diverse enough set of tasks to allow most of us to fill in knowledge gaps.
+The projects all also include some level of web development which is becoming more and more relevant to engaging non-specialists in research software.
+
+Again, please bring along your own project ideas, especially if they address a specific research question that you have but might be too big for you to tackle alone.
+
+
+Cheers, Darcy.
