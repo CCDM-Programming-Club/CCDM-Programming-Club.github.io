@@ -15,8 +15,8 @@ Check out our [blog](/blog/) for more details of what's happening, or find out m
 
 Meetings are every second Wednesday from 12-1 pm in B304.307 Curtin University, Australia.
 
-- 2018-05-29 Discussing project ideas and working through Rosalind problems in pairs.
-- 2018-06-12 Agenda TBD
+- 2018-05-30 Discussing project ideas and working through Rosalind problems in pairs.
+- 2018-06-13 Agenda TBD
 
 
 ## Project goals
