@@ -2,6 +2,10 @@
 layout: page
 ---
 
+<p align="center">
+<img src="images/logo.png" align="center">
+</p>
+
 The CCDM programming club is a fortnightly meeting for improving coding skills 
 by sharing code and working collaboratively on problems/projects.
 
