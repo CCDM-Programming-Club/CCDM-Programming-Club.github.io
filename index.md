@@ -40,4 +40,4 @@ aimed at solving research problems within the CCDM.
 ## Contact
 
 - Darcy Jones: darcy.a.jones@postgrad.curtin.edu.au
-- Rob Syme (Darcy didn't want to assume Rob would be ok with him putting his email up so he didn't).
+- Rob Syme: rob.syme@curtin.edu.au
